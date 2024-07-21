@@ -1,1 +1,1 @@
-This is the Amazon HTML & CSS based clone with mirroring the Amazon website for Desktop .
+My Amazon clone: HTML/CSS designed with mirroring Amazon's layout for seamless shopping experience.
